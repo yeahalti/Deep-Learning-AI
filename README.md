@@ -109,7 +109,7 @@ The five courses in the specialization are:
 
   ------
 
-  ## ***[Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization]([https://github.com/yeahalti/Deep-learning-AI/tree/master/2.%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization](https://github.com/yeahalti/Deep-learning-AI/tree/master/2. Improving Deep Neural Networks - Hyperparameter tuning%2C Regularization and Optimization))***
+  ## ***[Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/yeahalti/Deep-learning-AI/tree/master/2.%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)***
 
 ### [**Week 1**](https://github.com/yeahalti/Deep-learning-AI/tree/master/2.%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201)
 
@@ -161,7 +161,7 @@ The five courses in the specialization are:
 
 - ### <u>***[Quiz](https://github.com/yeahalti/Deep-learning-AI/blob/master/2.%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%202/Quiz.pdf)***</u>
 
-- ### <u>***[Programming Workbook]([https://github.com/yeahalti/Deep-learning-AI/tree/master/2.%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%202/Programming%20Workbook](https://github.com/yeahalti/Deep-learning-AI/tree/master/2. Improving Deep Neural Networks - Hyperparameter tuning%2C Regularization and Optimization/Week 2/Programming Workbook))***</u>
+- ### <u>***[Programming Workbook](https://github.com/yeahalti/Deep-learning-AI/tree/master/2.%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%202/Programming%20Workbook)***</u>
 
   - [Optimization](https://github.com/yeahalti/Deep-learning-AI/tree/master/2.%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%202/Programming%20Workbook/Optimization) - [ [IPYNB](https://github.com/yeahalti/Deep-learning-AI/blob/master/2.%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%202/Programming%20Workbook/Optimization/Optimization%2Bmethods.ipynb) , [Other formats]()) ]
 
@@ -192,15 +192,15 @@ The five courses in the specialization are:
 
 - ### <u>***[Quiz](https://github.com/yeahalti/Deep-learning-AI/blob/master/2.%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%203/Quiz.pdf)***</u>
 
-- ### <u>***[Programming Workbook]([https://github.com/yeahalti/Deep-learning-AI/tree/master/2.%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%203/Programming%20Workbook](https://github.com/yeahalti/Deep-learning-AI/tree/master/2. Improving Deep Neural Networks - Hyperparameter tuning%2C Regularization and Optimization/Week 3/Programming Workbook))***</u>
+- ### <u>***[Programming Workbook](https://github.com/yeahalti/Deep-learning-AI/tree/master/2.%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%203/Programming%20Workbook)***</u>
 
-  - [Tensorflow Tutorial]([https://github.com/yeahalti/Deep-learning-AI/tree/master/2.%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%203/Programming%20Workbook/TensorflowTutorial](https://github.com/yeahalti/Deep-learning-AI/tree/master/2. Improving Deep Neural Networks - Hyperparameter tuning%2C Regularization and Optimization/Week 3/Programming Workbook/TensorflowTutorial)) - [ [IPYNB](https://github.com/yeahalti/Deep-learning-AI/blob/master/2.%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%203/Programming%20Workbook/TensorflowTutorial/Tensorflow%2BTutorial.ipynb) , [Other formats](https://github.com/yeahalti/Deep-learning-AI/tree/master/2.%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%203/Programming%20Workbook/TensorflowTutorial/Other%20formats)) ]
+  - [Tensorflow Tutorial](https://github.com/yeahalti/Deep-learning-AI/tree/master/2.%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%203/Programming%20Workbook/TensorflowTutorial) - [ [IPYNB](https://github.com/yeahalti/Deep-learning-AI/blob/master/2.%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%203/Programming%20Workbook/TensorflowTutorial/Tensorflow%2BTutorial.ipynb) , [Other formats](https://github.com/yeahalti/Deep-learning-AI/tree/master/2.%20Improving%20Deep%20Neural%20Networks%20-%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%203/Programming%20Workbook/TensorflowTutorial/Other%20formats)) ]
 
 ### **Additional Resources**
 
 ------
 
-## ***[Structuring Machine Learning Projects]([https://github.com/yeahalti/Deep-learning-AI/tree/master/3.%20Structuring%20Machine%20Learning%20Projects](https://github.com/yeahalti/Deep-learning-AI/tree/master/3. Structuring Machine Learning Projects))***
+## ***[Structuring Machine Learning Projects](https://github.com/yeahalti/Deep-learning-AI/tree/master/3.%20Structuring%20Machine%20Learning%20Projects)***
 
 ### **[Week 1](https://github.com/yeahalti/Deep-learning-AI/tree/master/3.%20Structuring%20Machine%20Learning%20Projects/Week%201)**
 
