@@ -1,0 +1,25 @@
+Folder PATH listing
+Volume serial number is D25E-6A60
+C:.
+³   filelist.txt
+³   
+ÃÄÄÄ1. Deep L-layer neural network
+ÃÄÄÄ2. Forward Propagation in a Deep Network
+ÃÄÄÄ3. Getting your matrix dimensions right
+³       C1W4L02.pptx
+³       
+ÃÄÄÄ4. Why deep representations
+³       C1W4L03.pptx
+³       
+ÃÄÄÄ5. Building blocks of deep neural networks
+³       C1W4L04.pptx
+³       
+ÃÄÄÄ6. Forward and Backward Propagation
+³       C1W4L06-ForwardBackProp_annotated.pdf
+³       
+ÃÄÄÄ7. Parameters vs Hyperparameters
+³       C1W4L05.pptx
+³       
+ÀÄÄÄ8. What does this have to do with the brain
+        C1W4L06.pptx
+        

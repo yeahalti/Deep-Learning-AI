@@ -16,7 +16,7 @@ The five courses in the specialization are:
 
 ### [Week 1](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%201)
 
-- ### [*Introduction to Deep Learning*](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%201/1.%20Introduction%20to%20Deep%20Learning)
+- #### [*Introduction to Deep Learning*](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%201/1.%20Introduction%20to%20Deep%20Learning)
 
   - What is a neural network? - [ [PDF](https://github.com/yeahalti/Deep-learning-AI/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%201/1.%20Introduction%20to%20Deep%20Learning/1.%20What%20is%20a%20neural%20network/What_is_Neural_Network.pdf) , [PPTX](https://github.com/yeahalti/Deep-learning-AI/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%201/1.%20Introduction%20to%20Deep%20Learning/1.%20What%20is%20a%20neural%20network/What-is-a-NN_.pptx) ]
   - Supervised Learning with Neural Networks - [ [PDF](https://github.com/yeahalti/Deep-learning-AI/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%201/1.%20Introduction%20to%20Deep%20Learning/2.%20Supervised%20Learning%20with%20Neural%20Networks/Supervised_Learning_for_Neural_Network.pdf) , [PPTX](https://github.com/yeahalti/Deep-learning-AI/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%201/1.%20Introduction%20to%20Deep%20Learning/2.%20Supervised%20Learning%20with%20Neural%20Networks/C1W1L03.pptx) ]
@@ -26,7 +26,7 @@ The five courses in the specialization are:
 
 ### [Week 2](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%202)
 
-- ### [*Logistic Regression as a Neural Network*](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/1.%20Logistic%20Regression%20as%20a%20Neural%20Network)
+- #### [*Logistic Regression as a Neural Network*](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/1.%20Logistic%20Regression%20as%20a%20Neural%20Network)
 
   - Binary Classification - [ [PDF](https://github.com/yeahalti/Deep-learning-AI/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/1.%20Logistic%20Regression%20as%20a%20Neural%20Network/1.%20Binary%20Classification/Binary_Classification.pdf) , [PPTX](https://github.com/yeahalti/Deep-learning-AI/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/1.%20Logistic%20Regression%20as%20a%20Neural%20Network/1.%20Binary%20Classification/C1W2L01.pptx) ]
   - Logistic Regression - [ [PDF](https://github.com/yeahalti/Deep-learning-AI/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/1.%20Logistic%20Regression%20as%20a%20Neural%20Network/2.%20Logistic%20Regression/Logistic_Regression.pdf) , [PPTX](https://github.com/yeahalti/Deep-learning-AI/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/1.%20Logistic%20Regression%20as%20a%20Neural%20Network/2.%20Logistic%20Regression/C1W2L02.pptx) ]
@@ -39,7 +39,7 @@ The five courses in the specialization are:
   - Logistic Regression Gradient Descent - [ [PPTX](https://github.com/yeahalti/Deep-learning-AI/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/1.%20Logistic%20Regression%20as%20a%20Neural%20Network/9.%20Logistic%20Regression%20Gradient%20Descent/C1W2L06.pptx) ]
   - Gradient Descent on m Examples - No notes provided
 
-- ### *[Python and Vectorization](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/2.%20Python%20and%20Vectorization)*
+- #### *[Python and Vectorization](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/2.%20Python%20and%20Vectorization)*
 
   - Vectorization - [ [PPTX](https://github.com/yeahalti/Deep-learning-AI/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/2.%20Python%20and%20Vectorization/1.%20Vectorization/C1W2L07.pptx) ]
   - More Vectorization Examples - No notes provided
@@ -50,16 +50,16 @@ The five courses in the specialization are:
   - Quick tour of Jupyter Python Notebooks - No notes provided
   - Explanation of logistic regression cost function (optional) - No notes provided
 
-- ### [*Programming Workbook*](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Programming%20Workbook)
+- #### [*Programming Workbook*](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Programming%20Workbook)
 
   - [Logistic Regression as a Neural Network v5](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Programming%20Workbook/Logistic%20Regression%20as%20a%20Neural%20Network%20v5) - [ [IPYNB](https://github.com/yeahalti/Deep-learning-AI/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Programming%20Workbook/Logistic%20Regression%20as%20a%20Neural%20Network%20v5/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.ipynb) , [Other formats](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Programming%20Workbook/Logistic%20Regression%20as%20a%20Neural%20Network%20v5/Other%20formats) ] 
   - [Python Basics with Numpy v3](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Programming%20Workbook/Python%20Basics%20with%20Numpy%20v3) - [ [IPYNB](https://github.com/yeahalti/Deep-learning-AI/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Programming%20Workbook/Python%20Basics%20with%20Numpy%20v3/Python%2BBasics%2BWith%2BNumpy%2Bv3.ipynb) , [Other formats](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Programming%20Workbook/Python%20Basics%20with%20Numpy%20v3/Other%20formats) ]
 
-- ### [*Quiz*](https://github.com/yeahalti/Deep-learning-AI/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Quiz/Week%202%20test.pdf)
+- #### [*Quiz*](https://github.com/yeahalti/Deep-learning-AI/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Quiz/Week%202%20test.pdf)
 
 ### [Week 3](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%203)
 
-- ### *[Shallow Neural Network](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%203/Shallow%20Neural%20Network)*
+- #### *[Shallow Neural Network](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%203/Shallow%20Neural%20Network)*
 
   - Neural Networks Overview - [ [PPTX]() ]
   - Neural Network Representation - [ [PPTX]() ]
@@ -73,15 +73,15 @@ The five courses in the specialization are:
   - Backpropagation intuition (optional) - [ [PPTX]() ]
   - Random Initialization - [ [PPTX]() ]
 
-- ### [*Programming Workbook*](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%203/Programming%20Workbook) 
+- #### [*Programming Workbook*](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%203/Programming%20Workbook) 
 
   - [Planar data classification with one hidden layer v5](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%203/Programming%20Workbook/Planar%20data%20classification%20with%20one%20hidden%20layer%20v5) - [ [IPYNB](https://github.com/yeahalti/Deep-learning-AI/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%203/Programming%20Workbook/Planar%20data%20classification%20with%20one%20hidden%20layer%20v5/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv5.ipynb) , [Other formats](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%203/Programming%20Workbook/Planar%20data%20classification%20with%20one%20hidden%20layer%20v5/Other%20formats) ]
 
-- ### [*Quiz*](https://github.com/yeahalti/Deep-learning-AI/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%203/Quiz/WEEK%203.pdf)
+- #### [*Quiz*](https://github.com/yeahalti/Deep-learning-AI/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%203/Quiz/WEEK%203.pdf)
 
 ### [Week 4](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%204)
 
-- ### *[Deep Neural Network](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Deep%20Neural%20Network)*
+- #### *[Deep Neural Network](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Deep%20Neural%20Network)*
 
   - Deep L-layer neural network - No notes provided
   - Forward Propagation in a Deep Network - No notes provided
@@ -92,15 +92,165 @@ The five courses in the specialization are:
   - Parameters vs Hyperparameters - [ [PPTX]() ]
   - What does this have to do with the brain - [ [PPTX]() ]      
 
-- ### [*Programming Workbook*](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Programming%20Workbook)
+- #### [*Programming Workbook*](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Programming%20Workbook)
 
   - [Building your Deep Neural Network - Step by Step v8](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Programming%20Workbook/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step%20v8) - [ [IPYNB](https://github.com/yeahalti/Deep-learning-AI/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Programming%20Workbook/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step%20v8/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2Bv8.ipynb) , [Other formats](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Programming%20Workbook/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step%20v8/Other%20formats) ]
   - [Deep Neural Network Application - Image Classification v5](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Programming%20Workbook/Deep%20Neural%20Network%20Application%20-%20Image%20Classification%20v8) - [ [IPYNB](https://github.com/yeahalti/Deep-learning-AI/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Programming%20Workbook/Deep%20Neural%20Network%20Application%20-%20Image%20Classification%20v8/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb) , [Other formats](https://github.com/yeahalti/Deep-learning-AI/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Programming%20Workbook/Deep%20Neural%20Network%20Application%20-%20Image%20Classification%20v8/Other%20format) ]
 
-- ### [*Quiz*](https://github.com/yeahalti/Deep-learning-AI/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Quiz/FireShot%20Capture%2078%20-%20Neural%20Networks%20and%20Deep%20Learning%20-%20Ho_%20-%20https___www.coursera.org_learn_neu.pdf)
+- #### [*Quiz*](https://github.com/yeahalti/Deep-learning-AI/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%204/Quiz/FireShot%20Capture%2078%20-%20Neural%20Networks%20and%20Deep%20Learning%20-%20Ho_%20-%20https___www.coursera.org_learn_neu.pdf)
 
 ### Additional Resources
 
 - Deep Learning Notation - [ [PDF](https://github.com/yeahalti/Deep-learning-AI/blob/master/Neural%20Networks%20and%20Deep%20Learning/deep-learning-notation.pdf) ]
+
 - http://cs229.stanford.edu/notes/cs229-notes-deep_learning.pdf
+
 - https://www.datacamp.com/community/tutorials/python-numpy-tutorial
+
+  ------
+
+  ## ***[Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization]()***
+
+### [**Week 1**]()
+
+- #### ***<u>[Setting up your Machine Learning Application]()</u>***
+
+  - Train / Dev / Test sets - [ [PPTX]() ]
+  - Bias / Variance - [ [PPTX]() ]
+  - Basic Recipe for Machine Learning - [ [PPTX]() ]
+
+- #### ***<u>[Regularizing your Neural Network]()</u>***
+
+  - Regularization - [ [PPTX]() ]
+  - Why regularization reduces overfitting? - [ [PPTX]() ]
+  - Dropout Regularization - [ [PPTX]() ]
+  - Understanding Dropout - No notes provided
+  - Other regularization methods - [ [PPTX]() ]
+
+- #### ***<u>[Setting up your optimization problem]()</u>***
+
+  - Normalizing inputs - [ [PPTX]() ]
+  - Vanishing / Exploding gradients - [ [PPTX]() ]
+  - Weight Initialization for Deep Networks - No notes provided
+  - Numerical approximation of gradients - [ [PPTX]() ]
+  - Gradient checking - [ [PPTX]() ]
+  - Gradient checking implementation notes - No notes provided
+
+- #### <u>***[Quiz]()***</u>
+
+- #### [<u>***Programming Workbook***</u>]()
+
+  - [Initialization]() - [ [IPYNB]() , [Other formats]()) ]
+  - [Regularization]() - [ [IPYNB]() , [Other formats]()) ]
+  - [Gradient Checking]() - [ [IPYNB]() , [Other formats]()) ]
+
+### **[Week 2]()**
+
+- #### <u>***[Optimization algorithms]()***</u>
+
+  - Mini-batch gradient descent - [ [PPTX]() ]
+  - Understanding mini-batch gradient descent - [ [PPTX]() ]
+  - Exponentially weighted averages - [ [PPTX]() ]
+  - Understanding exponentially weighted averages - [ [PPTX]() ]
+  - Bias correction in exponentially weighted averages - [ [PPTX]() ]
+  - Gradient descent with momentum - [ [PPTX]() ]
+  - RMSprop - [ [PPTX]() ]
+  - Adam optimization algorithm - [ [PPTX]() ]
+  - Learning rate decay - [ [PPTX]() ]
+  - The problem of local optima - [ [PPTX]() ]
+
+- #### <u>***[Quiz]()***</u>
+
+- #### <u>***[Programming Workbook]()***</u>
+
+  - [Optimization]() - [ [IPYNB]() , [Other formats]()) ]
+
+### **[Week 3]()**
+
+- #### <u>***[Hyperparameter Tuning]()***</u>
+
+  - Tuning process - [ [PPTX]() ]
+  - Using an appropriate scale to pick hyperparameters - [ [PPTX]() ]
+  - Hyperparameters tuning in practice: Pandas vs. Caviar - [ [PPTX]() ]
+
+- #### <u>***[Batch Normalization]()***</u>
+
+  - Normalizing activations in a network - [ [PPTX]() ]
+  - Fitting Batch Normalization into a neural network - [ [PPTX]() ]
+  - Why does Batch normalization work? - [ [PPTX]() ]
+  - Batch normalization at test time - [ [PPTX]() ]
+
+- #### <u>***[Multi-class classification]()***</u>
+
+  - Softmax Regression - [ [PPTX]() ]
+  - Training a Softmax classifier - [ [PPTX]() ]
+
+- #### <u>***[Introduction to Programming Framework]()***</u>
+
+  - Deep learning frameworks - [ [PPTX]() ]
+  - TensorFlow - [ [PPTX]() ]
+
+- #### <u>***[Quiz]()***</u>
+
+- #### <u>***[Programming Workbook]()***</u>
+
+  - [Tensorflow Tutorial]() - [ [IPYNB]() , [Other formats]()) ]
+
+### **Additional Resources**
+
+------
+
+## ***[Structuring Machine Learning Projects]()***
+
+### **[Week 1]()**
+
+- #### [***Introduction to Machine Learning Strategy***]()
+
+  - Why ML Strategy - [ [PPTX]() ]
+  - Orthogonalization - [ [PDF]() , [PPTX]() ]
+
+- #### [***Setting up your goal***]()
+
+  - Single number evaluation metric - [ [PDF]() , [PPTX]() ]
+  - Satisfying and Optimizing metric - [ [PDF]() , [PPTX]() ]
+  - Train/dev/test distributions - [ [PDF]() , [PPTX]() ]
+  - Size of the dev and test sets - [ [PDF]() , [PPTX]() ]
+  - When to change dev/test sets and metrics - [ [PDF]() , [PPTX]() ]
+
+- #### [***Comparing to human-level performance***]()
+
+  - Why human-level performance? - [ [PDF]() , [PPTX]() ]
+  - Avoidable bias - [ [PDF]() , [PPTX]() ]
+  - Understanding human-level performance - [ [PDF]() , [PPTX]() ]
+  - Surpassing human-level performance - [ [PDF]() , [PPTX]() ]
+  - Improving your model performance - [ [PDF]() , [PPTX]() ]
+
+- #### ***[Machine Learning fight simulator]()***
+
+### **[Week 2]()**
+
+- #### [***Error Analysis***]()
+
+  - Carrying out error analysis - [ [PPTX]() ]
+  - Cleaning up incorrectly labeled data - [ [PPTX]() ]
+  - Build your first system quickly, then iterate - [ [PDF]() , [PPTX]() ]
+
+- #### ***[Mismatched training and dev test set]()***
+
+  - Training and testing on different distributions - [ [PDF]() , [PPTX]() ]
+  - Bias and Variance with mismatched data distributions - [ [PDF]() , [PPTX]() ]
+  - Addressing data mismatch - [ [PDF]() , [PPTX]() ]
+
+- #### ***[Learning from multiple tasks]()***
+
+  - Transfer learning - [ [PDF]() , [PPTX]() ]
+  - Multi-task learning - [ [PDF]() , [PPTX]() ]
+
+- #### ***[End to end deep learning]()***
+
+  - What is end-to-end deep learning? - [ [PDF]() , [PPTX]() ]
+  - Whether to use end-to-end deep learning - [ [PDF]() , [PPTX]() ]
+
+- #### ***[Machine Learning flight simulator]()***
+
+### **Additional Resources**
